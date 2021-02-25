@@ -1,0 +1,1288 @@
+/* Resposive Css */
+@media only screen and (max-width: 2560px) {
+    .our-mission-area-nav-content-before-image {
+        width: 45%;
+    }
+
+    .what-make-area-before-image {
+        width: 43%;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 40%;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls:before {
+        right: 155px;
+    }
+
+    .scrooll-down-btn {
+        right: 137px;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls .owl-dots {
+        right: 20px;
+    }
+
+    .cta-area-before-thumbnail img {
+        max-width: 175px;
+    }
+
+    .cta-area-after-thumbnail {
+        position: absolute;
+
+        top: 50%;
+        height: 70%;
+        width: 16%;
+        transform: translateY(-50%);
+    }
+
+    .cta-area.do-you-want-partnership.do-you-want-partnership-two
+        .cta-area-after-thumbnail {
+        width: auto;
+        height: 100%;
+        top: 0;
+        right: 0;
+        transform: none;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item {
+        padding: 65px 29px;
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls .owl-dots {
+        right: -60px;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls:before {
+        right: 80px;
+    }
+
+    .scrooll-down-btn {
+        right: 60px;
+    }
+
+    .Wearerun-area {
+        margin-left: 20%;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item {
+        padding: 65px 35px;
+    }
+
+    .our-mission-area-nav-content-before-image {
+        width: 44%;
+    }
+
+    .what-make-area-before-image {
+        width: 40%;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 36%;
+    }
+
+    .cta-area.do-you-want-partnership.do-you-want-partnership-two
+        .cta-area-after-thumbnail {
+        width: 32%;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
+    header.header_area .container-fluid {
+        max-width: 1140px;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item {
+        padding: 10px 30px;
+    }
+
+    .Wearerun-area {
+        margin-left: 16%;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 34%;
+    }
+
+    .what-make-area-before-image {
+        width: 39%;
+    }
+
+    .our-mission-area-nav-content-before-image {
+        width: 43%;
+    }
+
+    .cta-area-after-thumbnail {
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .slider-long-title h1 {
+        font-size: 60px;
+    }
+
+    .slider-button.site-btn {
+        margin-top: 35px;
+    }
+
+    .slider-small-title h3 {
+        font-size: 30px;
+    }
+
+    .site-title h2 {
+        font-size: 45px;
+    }
+
+    .site-title {
+        margin-bottom: 20px;
+    }
+
+    .why-do-you-content br {
+        display: none;
+    }
+
+    .why-do-you-content {
+        font-size: 45px;
+    }
+
+    .partnership-inner-content h2 {
+        font-size: 45px;
+    }
+
+    .our-value-area-inner-content ul li:nth-child(2) {
+        font-size: 60px;
+    }
+
+    .our-value-area-inner-content ul li {
+        font-size: 50px;
+    }
+
+    .our-value-area-inner-content ul li:nth-child(2) span {
+        font-size: 60px;
+    }
+
+    .our-value-area-inner-content ul li:nth-child(3),
+    .our-value-area-inner-content ul li:nth-child(5),
+    .our-value-area-inner-content ul li:nth-child(7) {
+        font-size: 60px;
+    }
+
+    .Our-values-area .site-title h2 {
+        min-width: 30%;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item h2 {
+        font-size: 45px;
+    }
+
+    .our-mission-area-nav-content-before-image {
+        width: 44%;
+    }
+
+    .video-area.why-area-chnaging-area .site-title .site-title-desc p {
+        margin-bottom: 0;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 32%;
+    }
+
+    .cta-area.do-you-want-partnership.do-you-want-partnership-two
+        .cta-area-after-thumbnail {
+        width: 32%;
+        display: none;
+    }
+
+    div#Partnershipblock_60081b072cc9a {
+        padding: 80px 0;
+    }
+
+    .Our-values-area {
+        padding-bottom: 80px;
+    }
+
+    .we-care-so-much-items {
+        background-size: cover;
+        background-position: center;
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+
+    .video-area.why-area-chnaging-area {
+        padding-top: 80px;
+    }
+
+    .what-make-area {
+        padding: 85px 0;
+    }
+
+    .what-make-area-before-image {
+        width: 40%;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 35%;
+    }
+
+    .what-make-area.Webelieve-area .what-we-make-list ul li {
+        padding-left: 30px;
+        margin-bottom: 10px;
+    }
+
+    .what-make-area.Webelieve-area .what-we-make-list ul {
+        background: #fff;
+        padding: 20px;
+        padding-right: 90px;
+    }
+
+    .video-pop-up-button a.video-btn-mfp.mfp-iframe,
+    .our-mission-area-nav-content-popup-video.text-right
+        .ideo-area-btn
+        a.video-btn-mfp.mfp-iframe,
+    .we-care-so-much-inner-content.text-center a.video-btn.mfp-iframe,
+    .ideo-area-btn-inner-content a {
+        position: relative;
+        width: 72px;
+        height: 72px;
+        display: inline-block;
+        text-align: center;
+        font-size: 25px;
+        line-height: 77px;
+        border-radius: 50%;
+        color: #fff;
+        z-index: 1;
+    }
+
+    .big-enough-to-execute.Bigenoughtoexecute-area {
+        padding: 80px 0;
+    }
+
+    .big-images-area .container .row .col-lg-6:nth-child(3) .big-img-single {
+        margin-bottom: 0;
+    }
+
+    .google-map-inner-area iframe {
+        height: 550px;
+    }
+
+    .who-are-area {
+        padding: 80px 0;
+    }
+
+    .video-area {
+        padding: 80px 0;
+        padding-bottom: 80px;
+    }
+
+    .we-care-so-much-area.who-we-area-really-video .thumb-after,
+    .we-care-so-much-area.who-we-area-really-video .thumb-before {
+        width: 17%;
+    }
+
+    .we-care-so-much-area.who-we-area-really-video .we-care-so-much-items {
+        padding: 90px 0;
+    }
+
+    .Partnership-in-action {
+        padding: 80px 0;
+    }
+
+    .Dolor-sit-amet-area {
+        padding-bottom: 80px;
+    }
+
+    .What-makes-us-completely-different {
+        padding: 80px 0;
+    }
+
+    .Simplified-Communication-inner-content {
+        padding: 80px 0;
+    }
+
+    .Wearerun-area {
+        margin-left: 10%;
+        padding: 80px 0;
+        padding-bottom: 0;
+    }
+
+    .footer-video-area {
+        padding: 80px 0;
+    }
+
+    .ooter-widget.contact-us ul li {
+        margin-bottom: 15px;
+    }
+
+    div#video-block_60071414089cb {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+
+    .our-mission-area .tab-content .our-mission-area-nav-content {
+        position: relative;
+        overflow: hidden;
+        padding: 80px 0;
+    }
+
+    .common-banner-content h1 {
+        font-size: 50px;
+    }
+
+    .page-breadcrumb span {
+        letter-spacing: 8px;
+        font-size: 16px;
+    }
+
+    .section-title2 h2 {
+        font-size: 50px;
+    }
+
+    .jobs-listing-area .section-title h2 {
+        font-size: 50px;
+    }
+
+    .jobs-listing-area .section-title h4 {
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    .social-list-wrapper {
+        left: -100px;
+    }
+
+    .what-make-area-before-image {
+        width: 39%;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 34%;
+    }
+
+    .Wearerun-area {
+        margin-left: 8%;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls:before {
+        display: none;
+    }
+
+    .slider-inner-content.text-center {
+        padding: 100px;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls .owl-dots {
+        right: -90px;
+    }
+
+    .scrooll-down-btn {
+        right: 30px;
+    }
+
+    .our-mission-area-nav-content-before-image {
+        width: 43%;
+    }
+
+    .cta-area-after-thumbnail {
+        right: 0;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .what-make-area-before-image {
+        width: 38%;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 28%;
+    }
+
+    .what-make-area.Webelieve-area .video-pop-up-button.text-left {
+        margin: 0;
+    }
+
+    .Wearerun-area {
+        margin-left: inherit;
+    }
+
+    .Wearerun-area .container-fluid {
+        max-width: 1140px;
+    }
+
+    .Simplified-Communication-inner-content-nav .nav.flex-column.nav-pills a {
+        margin-bottom: 20px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .single-view-page {
+        padding: 80px 0;
+    }
+    .navbar-toggler {
+        border: none;
+        border-radius: 0px;
+        padding: 0px;
+        cursor: pointer;
+        margin-top: 27px;
+        margin-bottom: 23px;
+    }
+
+    .navbar-toggler[aria-expanded='false'] span:nth-child(2) {
+        opacity: 1;
+    }
+
+    .navbar-toggler[aria-expanded='true'] span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .navbar-toggler[aria-expanded='true'] span:first-child {
+        transform: rotate(-45deg);
+        position: relative;
+        top: 7.5px;
+    }
+
+    .navbar-toggler[aria-expanded='true'] span:last-child {
+        transform: rotate(45deg);
+        bottom: 6px;
+        position: relative;
+    }
+
+    .navbar-toggler span {
+        display: block;
+        width: 25px;
+        height: 3px;
+        background: #ff6200;
+        margin: auto;
+        margin-bottom: 4px;
+        transition: all 400ms linear;
+        cursor: pointer;
+    }
+
+    .navbar .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .nav {
+        padding: 0;
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .header_top .nav {
+        padding: 0px;
+    }
+
+    header.header_area.active {
+        background: #fff;
+    }
+    header.header_area li a {
+        color: #808080;
+    }
+
+    .header_area .navbar-collapse {
+        max-height: 410px;
+        overflow-y: scroll;
+    }
+
+    .header_area .navbar .nav li {
+        margin-right: 0px;
+        text-align: center;
+        border-bottom: 1px solid #eee;
+        line-height: 50px;
+    }
+
+    .header-button {
+        min-width: auto;
+        text-align: center;
+        float: inherit;
+        display: block;
+    }
+
+    .cta-area.do-you-want-partnership.do-you-want-partnership-two
+        .cta-area-inner-content.text-center {
+        text-align: center !important;
+    }
+
+    .Partnership-outer-row form button[type='submit'] {
+        padding-left: 60px;
+        padding-right: 10px;
+        font-size: 14px;
+    }
+
+    .Partnership-outer-row form button[type='submit'] img {
+        max-width: 45px;
+    }
+
+    .video-pop-up-button.text-left {
+        text-align: center !important;
+    }
+
+    .what-make-area.Webelieve-area .what-make-area-before-image {
+        width: 31%;
+    }
+
+    div#Partnershipblock_6009c06d2ca2c form button[type='submit'] {
+        padding-left: 60px;
+        font-size: 12px;
+    }
+
+    .footer-copyright-menu ul li a {
+        font-size: 18px;
+    }
+
+    .Simplified-Communication-navigation ul.nav.nav-pills li a {
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+
+    .Simplified-Communication-inner-content-nav .nav.flex-column.nav-pills a {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+
+    .formo-steps span.step {
+        font-size: 18px;
+        padding: 0 25px;
+    }
+    .header-button .contact-link {
+        color: #777;
+        display: block;
+        border-bottom: 1px solid #eee;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    
+}
+
+@media only screen and (max-width: 1024px) {
+    .Wearerun-area .container-fluid {
+        max-width: 960px;
+    }
+
+    .main-menu ul {
+        margin-top: 0;
+    }
+
+    header.header_area {
+        padding: 0;
+    }
+
+    .our-mission-area-nav-content-before-image {
+        width: 42%;
+    }
+
+    .cta-area-after-thumbnail {
+        max-height: 45%;
+    }
+
+    .what-make-area-before-image {
+        width: 37%;
+    }
+
+    .Wearerun-area .container-fluid {
+        margin: 0;
+        max-width: inherit;
+    }
+
+    .big-images-area {
+        margin-top: 80px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    header.header_area .container-fluid {
+        max-width: 720px;
+    }
+
+    .slider-long-title h1 {
+        font-size: 50px;
+    }
+
+    .why-do-thumbnail-after {
+        max-width: 35%;
+    }
+
+    .why-do-you-content {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .why-do-you-right-side img {
+        max-width: 50%;
+    }
+
+    .why-do-you-right-side {
+        text-align: center;
+    }
+
+    .Partnership-outer-row form span {
+        margin-bottom: 30px;
+    }
+
+    .Partnership-outer-row form span.wpcf7-form-control-wrap.email-701 {
+        margin-bottom: 0;
+    }
+
+    .Partnership-outer-row form button[type='submit'] {
+        text-align: center;
+    }
+
+    .Partnership-outer-row form button[type='submit'] img {
+        position: relative;
+        transform: none;
+        margin-right: 16px;
+        left: auto;
+        right: auto;
+        top: auto;
+        font-size: 20px;
+    }
+
+    .we-care-so-much-inner-content {
+        padding: 70px;
+    }
+
+    .we-care-so-much-items .we-care-so-much-inner-content-wrapper h3 {
+        font-size: 35px;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item h2 {
+        font-size: 30px;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item p {
+        font-size: 12px;
+    }
+
+    .our-mission-area-nav-content-before-image {
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+    }
+
+    .our-mission-area-nav-content {
+        z-index: 1;
+        position: relative !important;
+    }
+
+    .ideo-area-btn {
+        text-align: center !important;
+        margin-bottom: 70px !important;
+    }
+
+    .our-mission-area-nav-content:after {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        content: '';
+        background: #222;
+        z-index: -1;
+        opacity: 0.4;
+    }
+
+    .mission-title h3 {
+        color: #fff;
+    }
+
+    .mission-title p {
+        color: #fff;
+    }
+
+    .mission-area-content h4 {
+        color: #fff;
+    }
+
+    .mission-area-content ul li {
+        color: #fff;
+    }
+
+    .mission-area-content ul li strong {
+        color: #fff;
+    }
+
+    .cta-area-after-thumbnail {
+        display: none;
+    }
+
+    .cta-area-inner-content {
+        text-align: center !important;
+    }
+
+    .what-make-area-before-image {
+        display: none;
+    }
+
+    .video-pop-up-button.text-right {
+        text-align: center !important;
+        margin-bottom: 30px;
+    }
+
+    .what-make-area.Webelieve-area:before {
+        display: none;
+    }
+
+    .what-make-area.Webelieve-area {
+        padding-bottom: 80px;
+    }
+
+    .video-pop-up-button.text-left {
+        margin-top: 60px !important;
+    }
+
+    .big-images-area .container .row .col-lg-6:nth-child(2) .big-img-single {
+        margin-top: 0;
+    }
+
+    .big-images-area .container .row .col-lg-6:nth-child(4) .big-img-single {
+        margin-top: 0;
+    }
+
+    .big-images-area
+        .container
+        .row
+        .col-lg-6:nth-child(3)
+        .big-img-single:after {
+        display: block !important;
+    }
+
+    .big-images-area .container .row .col-lg-6:nth-child(3) .big-img-single {
+        margin-bottom: 110px;
+    }
+
+    .big-images-area .container .row .col-lg-6:nth-child(4) .big-img-single {
+        margin-bottom: 0;
+    }
+
+    .what-we-make-list ul li {
+        font-size: 20px;
+    }
+
+    .Dolor-sit-amet-area-inner-content:before {
+        border-radius: 0;
+    }
+
+    .Dolor-sit-amet-area-inner-content.text-right {
+        text-align: center !important;
+    }
+
+    .Wearerun-area-right {
+        margin: 0;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .footer-video-promo.position-relative img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .footer-video-promo.position-relative {
+        margin-bottom: 30px;
+    }
+
+    .footer-widget.footer-info {
+        margin-top: 0;
+    }
+
+    .copytext {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .copyright-area-outer-row {
+        padding: 20px 0;
+    }
+
+    .footer-copyright-menu ul {
+        text-align: center;
+    }
+
+    .footer-copyright-menu ul li a {
+        padding: 0 34px;
+        padding-left: 0;
+    }
+
+    .footer-copyright-menu ul li:last-child a {
+        padding-right: 0;
+    }
+
+    .siter-slider-list {
+        height: auto;
+        padding-top: 170px;
+        padding-bottom: 150px;
+    }
+
+    .scrooll-down-btn {
+        right: 26px;
+    }
+
+    .scrooll-down-btn:before {
+        display: none;
+    }
+
+    .slider-inner-content.text-center {
+        padding: 30px;
+    }
+
+    .we-care-so-much-items {
+        padding: 80px 0;
+    }
+
+    .cta-area-inner-content h3 {
+        font-size: 45px;
+    }
+
+    .What-makes-us-completely-different-left,
+    .What-makes-us-completely-different-left span {
+        font-size: 45px;
+    }
+
+    .What-makes-us-completely-different-left {
+        margin-bottom: 30px;
+    }
+
+    .Simplified-Communication-inner-content-nav {
+        margin-bottom: 35px;
+    }
+
+    .job_listings li a {
+        display: block !important;
+    }
+    .job_listings li .company_logo {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    .job_listings li .location {
+        text-align: left !important;
+        margin: 10px 0;
+        padding-left: 0 !important;
+    }
+    .common-banner {
+        padding: 180px 0 320px;
+    }
+    .jobs-listing-area {
+        padding-bottom: 60px;
+    }
+    .quick-tips {
+        padding: 80px 0 50px;
+    }
+    .single-career-tip {
+        margin-bottom: 30px;
+    }
+    .contact-area {
+        padding-bottom: 50px;
+    }
+
+    .site-slider-area-wrapper-after-shape {
+        display: none;
+    }
+    .slider-inner-content {
+        margin-top: 0;
+    }
+
+    .formo-steps span.step {
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    .formo-steps span.step span {
+        width: 35px;
+        height: 35px;
+        line-height: 31px;
+        font-size: 20px;
+    }
+    .job_listings li .position {
+        width: 100% !important;
+    }
+    .form-button {
+        margin-top: 30px;
+    }
+    .Simplified-Communication-navigation ul.nav.nav-pills li a {
+        padding: 10px 10px;
+        font-size: 12px;
+    }
+    .Simplified-Communication-inner-content-nav .nav.flex-column.nav-pills a {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .slider-long-title h1 {
+        font-size: 35px;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item {
+        padding: 10px 15px;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item h2 {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+
+    .partnership-inner-content h2 {
+        font-size: 30px;
+    }
+
+    .site-title h2 {
+        font-size: 35px;
+    }
+
+    .our-value-area-inner-content ul li span,
+    .our-value-area-inner-content ul li:nth-child(2) span,
+    .our-value-area-inner-content ul li:nth-child(2),
+    .our-value-area-inner-content ul li:nth-child(3) span,
+    .our-value-area-inner-content ul li:nth-child(3),
+    .our-value-area-inner-content ul li:nth-child(4),
+    .our-value-area-inner-content ul li:nth-child(5),
+    .our-value-area-inner-content ul li:nth-child(6),
+    .our-value-area-inner-content ul li:nth-child(5) span,
+    .our-value-area-inner-content ul li:nth-child(7),
+    .our-value-area-inner-content ul li:nth-child(8),
+    .our-value-area-inner-content ul li:nth-child(9) {
+        font-size: 35px;
+    }
+
+    .our-value-area-inner-content ul li:nth-child(3) span {
+        display: inline-block;
+    }
+
+    .our-value-area-inner-content ul li:nth-child(3) span,
+    .our-value-area-inner-content ul li:nth-child(3) span,
+    .our-value-area-inner-content ul li:nth-child(4) span,
+    .our-value-area-inner-content ul li:nth-child(5) span,
+    .our-value-area-inner-content ul li:nth-child(5) span {
+        display: inline-block;
+    }
+
+    img.video-area-inner-inner-images {
+        top: -73px;
+    }
+
+    .video-area.why-area-chnaging-area {
+        padding-bottom: 130px;
+    }
+
+    .site-slider-area-wrapper-after-shape {
+        background-position: center;
+        background-size: cover;
+    }
+
+    div#video-block_60071414089cb {
+        padding: 150px 0;
+    }
+
+    img.video-area-inner-inner-images {
+        top: 50%;
+        max-width: 100%;
+        transform: translateY(-50%);
+        left: 0;
+    }
+
+    .common-banner-content h1 {
+        font-size: 42px;
+    }
+    .common-banner {
+        padding: 140px 0 230px;
+    }
+    .section-title-wrap {
+        padding: 30px;
+    }
+    .section-title2 h2 {
+        font-size: 38px;
+    }
+    .section-title2 p {
+        font-size: 16px;
+    }
+    .jobs-listing-area .section-title-wrap,
+    .contact-area .section-title-wrap {
+        margin-top: -180px;
+    }
+    .jobs-listing-area .section-title h2 {
+        font-size: 38px;
+    }
+    .jobs-listing-area .section-title h4 {
+        font-size: 16px;
+    }
+    .job_listings li .position h3 {
+        font-size: 24px;
+    }
+    .modal-multistep-form {
+        padding: 25px;
+    }
+    .custom-modal-style .modal-multistep-form {
+        border-radius: 15px;
+    }
+    .form-heading h1 {
+        font-size: 24px;
+    }
+    .formo-steps {
+        margin-bottom: 40px;
+    }
+    form#regForm {
+        padding: 20px;
+    }
+    .job_listings li .company_logo {
+        margin-right: 0;
+        margin-bottom: 10px;
+        visibility: visible !important;
+    }
+    .job_listings li .location {
+        text-align: center !important;
+        width: 100% !important;
+    }
+    .job_listings li .meta {
+        width: 100% !important;
+        text-align: center !important;
+    }
+    .Simplified-Communication-navigation ul.nav.nav-pills li a {
+        min-height: 75px;
+        display: flex;
+        align-items: center;
+    }
+    .Simplified-Communication-navigation .col-lg-12 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .Simplified-Communication-navigation .nav li {
+        width: 50%;
+    }
+    .Simplified-Communication-inner-content {
+        padding: 40px 0 80px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+}
+
+@media only screen and (max-width: 575px) {
+    .navbar-brand img {
+        max-width: 100px;
+    }
+
+    .Wearerun-area .container-fluid {
+        max-width: 540px;
+        margin: 0 auto;
+    }
+
+    .social-list-wrapper {
+        left: -125px;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls .owl-dots {
+        right: -115px;
+    }
+
+    .scrooll-down-btn {
+        display: none;
+    }
+
+    .partnership-inner-content-form {
+        position: relative;
+        display: block;
+        margin: 0 15px;
+    }
+
+    .footer-widget {
+        margin-bottom: 30px;
+    }
+
+    .why-do-you-content {
+        font-size: 35px;
+    }
+
+    .our-mission-area-nav .nav.nav-tabs a.nav-item {
+        border: none;
+        border-radius: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .why-do-thumbnail-after {
+        display: none;
+    }
+
+    .why-do-area {
+        padding-bottom: 80px;
+    }
+
+    .we-care-so-much-area-id.owl-carousel .owl-nav div {
+        position: relative;
+        left: 0;
+        bottom: 0;
+        right: auto;
+        top: auto;
+        transform: none;
+        margin: 0 33px;
+    }
+
+    .we-care-so-much-area-id.owl-carousel .owl-nav {
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+
+    .site-slider-area-wrapper-after-shape {
+        height: 185px;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+    }
+    .formo-steps span.step span {
+        width: 25px;
+        height: 25px;
+        line-height: 22px;
+        font-size: 14px;
+        margin-left: 5px;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .we-care-so-much-area-id.owl-carousel .owl-nav div.owl-next {
+        right: 0;
+    }
+    .social-list-wrapper {
+        display: none;
+    }
+
+    .slider-inner-content.text-center {
+        padding: 0;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls .owl-dots {
+        position: relative;
+        transform: none;
+        top: auto;
+        bottom: 0;
+        left: 0;
+        right: auto;
+        width: 100%;
+        height: auto;
+        background: #222;
+        z-index: 9;
+        overflow: hidden;
+    }
+
+    .site-slider-area-wrapper-after-shape {
+        display: none;
+    }
+
+    .site-slider-area-wrapper-slider.owl-carousel .owl-controls .owl-dots div {
+        margin: 0 10px;
+    }
+
+    .cta-area-inner-content h3 {
+        font-size: 35px;
+    }
+
+    .what-make-area.Webelieve-area .what-we-make-list ul {
+        padding-right: 10px;
+    }
+
+    .Dolor-sit-amet-area-inner-content.text-right .cta-btn a {
+        width: 100%;
+        display: block;
+    }
+
+    .cta-btn {
+        width: 100% !important;
+    }
+
+    .Dolor-sit-amet-area-inner-content.text-right {
+        padding: 10px;
+    }
+
+    .Dolor-sit-amet-area-inner-content.text-right .cta-btn a img {
+        max-width: 60px;
+    }
+
+    .Dolor-sit-amet-area-inner-content.text-right .cta-btn a {
+        padding-left: 77px;
+        padding-right: 10px;
+    }
+
+    .we-care-so-much-inner-content {
+        padding: 10px;
+    }
+
+    .What-makes-us-completely-different-left {
+        font-size: 35px;
+    }
+
+    .What-makes-us-completely-different-left span {
+        font-size: 35px;
+    }
+
+    .cta-btn a {
+        display: block;
+    }
+
+    .mean-container a.meanmenu-reveal {
+        top: -58px;
+        background: #ff6200;
+    }
+
+    .common-banner-content h1 {
+        font-size: 32px;
+    }
+
+    .job_filters {
+        display: block;
+    }
+    .job_filters .search_jobs {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .job_filters .job_types {
+        width: 100%;
+        padding: 0;
+    }
+    .formo-steps span.step {
+        display: block;
+    }
+    .slider-button.site-btn a {
+        padding-left: 110px;
+        font-size: 16px;
+        border-radius: 13px;
+        width: auto;
+    }
+    .slider-button.site-btn a img {
+        margin-left: 0;
+    }
+
+    .Simplified-Communication-inner-content .tab-pane .col-md-4 {
+        width: 50%;
+    }
+    .Simplified-Communication-inner-content .tab-pane .col-md-8 {
+        width: 50%;
+    }
+    .Simplified-Communication-inner-contents .tab-pane h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .Simplified-Communication-inner-contents p {
+        font-size: 12px;
+    }
+    .Simplified-Communication-inner-content-nav .nav.flex-column.nav-pills a {
+        font-size: 12px;
+    }
+    .Simplified-Communication-inner-content-nav .nav.flex-column.nav-pills a.nav-link.active {
+        padding: 10px 15px;
+    }
+    .Simplified-Communication-inner-content-nav .nav.flex-column.nav-pills a br {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+}
+
+@media only screen and (max-width: 325px) {
+}
